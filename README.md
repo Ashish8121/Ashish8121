@@ -10,7 +10,7 @@
  <a href="https://alsiam.com" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  </a>-->
- <a href="www.linkedin.com/in/ashish-kumar-49b452152" target="_blank">
+ <a href="https://www.linkedin.com/in/ashish-kumar-49b452152" >
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
 </p>
