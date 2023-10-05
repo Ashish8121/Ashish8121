@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
--  Email-Address **ashishkumar66531@gmail.com**
+-  Email-Address: **ashishkumar66531@gmail.com**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
