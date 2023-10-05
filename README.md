@@ -1,4 +1,4 @@
-<h1 align="left"><span style="color:red"><img src="result.gif"></h1>
+<h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300 />
 
 <h3 align="left">Full Stack Developer from India</h3>
