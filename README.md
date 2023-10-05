@@ -1,5 +1,5 @@
-<h1 align="left"><span style="color:red">Hello, I'm Ashish</span></h1>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="left"><span style="color:red">Hello, I'm Ashish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></span></h1>
+
 <h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
