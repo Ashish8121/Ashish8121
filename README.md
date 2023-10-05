@@ -5,8 +5,14 @@
 -  I’m currently learning **Python & Django**
 - 
 #### Contact me: 
-- Linkedin Profile: **www.linkedin.com/in/ashish-kumar-49b452152**
-- Email-Address: **ashishkumar66531@gmail.com**
+<p align="center">
+ <a href="https://alsiam.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://linkedin.com/in/al-siam" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+
 
 
 
