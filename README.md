@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ashish</h1>
-<h3 align="left" font-color="green">Full Stack Developer from India</h3>
+<h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
 
