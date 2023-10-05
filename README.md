@@ -1,5 +1,5 @@
 <h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
-<img align="right" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" width="400" height="400"/>
+<img align="right" src="https://img.freepik.com/premium-vector/coding-programming-concept-illustration_188398-765.jpg" />
 
 <h3 align="left">Full Stack Developer from India</h3>
 
