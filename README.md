@@ -10,7 +10,6 @@
 
 
 
-#### Languages and Tools:
-###### HTML || CSS || Javascript || ReactJs || Python 
+#### Languages and Tools: HTML || CSS || Javascript || ReactJs || Python 
 
 
