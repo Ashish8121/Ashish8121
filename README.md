@@ -1,5 +1,5 @@
 <h1 align="left"><span style="color:red">Hello, I'm Ashish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></span></h1>
-<img align="right" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" width="200" height="200"/>
+<img align="right" src="https://img.freepik.com/premium-vector/vector-flat-illustration-software-developer-cyber-program-security_776789-211.jpg" width="600" height="600"/>
 <h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
