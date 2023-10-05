@@ -11,6 +11,6 @@
 
 
 ### Languages and Tools:
-#### HTML || CSS || Javascript || ReactJs || Python 
+###### HTML || CSS || Javascript || ReactJs || Python 
 
 
