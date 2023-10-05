@@ -10,8 +10,8 @@
 </p>
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
-- HTML 
+## Languages and Tools:
+### HTML || CSS || Javascript || ReactJs || Python 
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish&show_icons=true&locale=en&layout=compact" alt="ashish" /></p>
