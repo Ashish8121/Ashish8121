@@ -4,9 +4,6 @@
 -  I’m currently learning **Python & Django**
 -  Email-Address: **ashishkumar66531@gmail.com**
 
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ashish-kumar-49b452152" height="10" width="10" target="_blank" />
-
-
 ### Languages and Tools:
 #### HTML || CSS || Javascript || ReactJs || Python 
 
