@@ -1,4 +1,4 @@
-![image](https://github.com/Ashish8121/Ashish8121/assets/104775884/f8b2d295-9a87-4c68-ab5c-52b8e0279ca5)<h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
+<h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
 <img align="right" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
 
 <h3 align="left">Full Stack Developer from India</h3>
