@@ -1,5 +1,5 @@
 <h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
-<img align="right" src="https://t4.ftcdn.net/jpg/02/73/46/99/360_F_273469972_ESU9Rq3eIpSrK3xddlIEyDh7vrslbiGg.jpg" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h3 align="left">Full Stack Developer from India</h3>
 
