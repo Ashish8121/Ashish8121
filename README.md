@@ -3,7 +3,7 @@
 
 -  I’m currently learning **Python & Django**
 -  Email-Address: **ashishkumar66531@gmail.com**
--  <img src="linkedin-original.svg" width="10" height="10"/> LinkedIn Profile: 
+-  <img src="linkedin-original.svg" width="15" height="15"/> LinkedIn Profile: 
 
 
 
