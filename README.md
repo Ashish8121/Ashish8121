@@ -2,9 +2,10 @@
 <h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
--  Email-Address: **ashishkumar66531@gmail.com**
+- 
 #### Contact me: 
-- Linkedin Profile: www.linkedin.com/in/ashish-kumar-49b452152
+- Linkedin Profile: #### www.linkedin.com/in/ashish-kumar-49b452152
+- Email-Address: #### ashishkumar66531@gmail.com
 
 
 
