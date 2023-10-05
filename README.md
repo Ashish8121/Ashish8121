@@ -4,7 +4,8 @@
 -  I’m currently learning **Python & Django**
 -  Email-Address: **ashishkumar66531@gmail.com**
 #### Contact me: 
-## <img src="linkedin-original.svg" width="15" height="15"/> 
+- Linkedin Profile: www.linkedin.com/in/ashish-kumar-49b452152
+
 
 
 
