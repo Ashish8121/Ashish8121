@@ -1,9 +1,9 @@
 <h1 align="left"><span style="color:red">Hello, I'm Ashish <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></span></h1>
-
+<img align="right" src="https://t3.ftcdn.net/jpg/03/35/34/80/360_F_335348056_yY8QyHP966KePjyutnns1Puwt2bnngZc.jpg"/>
 <h3 align="left">Full Stack Developer from India</h3>
 
 -  I’m currently learning **Python & Django**
-<img align="right" src="https://t3.ftcdn.net/jpg/03/35/34/80/360_F_335348056_yY8QyHP966KePjyutnns1Puwt2bnngZc.jpg"/>
+
 #### Contact me: 
 <!--- (<p align="left">
  <a href="https://alsiam.com" target="blank">
