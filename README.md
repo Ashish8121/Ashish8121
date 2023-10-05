@@ -3,6 +3,7 @@
 
 -  I’m currently learning **Python & Django**
 -  Email-Address: **ashishkumar66531@gmail.com**
+-  <img src="linkedin-original.svg"/>LinkedIn Profile: 
 
 ### Languages and Tools:
 #### HTML || CSS || Javascript || ReactJs || Python 
