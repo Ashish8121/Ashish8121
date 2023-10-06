@@ -1,5 +1,6 @@
 # Hello, I'm Ashish
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200 />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 **Full stack developer from India**
 -  I’m currently learning **Python & Django**
 
