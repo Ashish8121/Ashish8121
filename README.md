@@ -1,6 +1,7 @@
 <h1 align="left"><span style="color:red">Hello, I'm Ashish</h1>
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="200 />
-<h3 align="left">**Full Stack Developer from India**</h3>
+
+**Full stack developer from India**
 
 -  I’m currently learning **Python & Django**
 
